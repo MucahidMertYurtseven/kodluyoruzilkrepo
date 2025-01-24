@@ -1,0 +1,28 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex f66c743..998595c 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,2 +1,20 @@[m
+[31m-# kodluyoruzilkrepo[m
+[31m-Kodluyoruz Eğitimi kapsamında açtığım ilk repo[m
+[32m+[m[32m# Kodluyoruz Ilk Repo[m
+[32m+[m[32mBu repo [Kodluyoruz](www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.[m
+[32m+[m[32m![](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)[m
+[32m+[m[32m## Installation[m
+[32m+[m[32mÖncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)[m
+[32m+[m[32m```[m
+[32m+[m[32mhttps://github.com/MucahidMertYurtseven/kodluyoruzilkrepo.git[m
+[32m+[m[32m```[m
+[32m+[m[32m## Usage[m
+[32m+[m[32mProjeyi cloneladıktan sonra Visual Studio Code programında açınız.[m
+[32m+[m
+[32m+[m[32mLinux için:[m
+[32m+[m[32m```[m
+[32m+[m[32mcd kodluyoruzilkrepo[m
+[32m+[m[32mcode .[m
+[32m+[m[32m```[m
+[32m+[m[32m## Contributing[m
+[32m+[m[32mPull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.[m
+[32m+[m[32m## License[m
+[32m+[m[32m[MIT](https://choosealicense.com/licenses/mit/)[m
+\ No newline at end of file[m
